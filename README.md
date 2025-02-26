@@ -1,6 +1,6 @@
-# AI Chat API Endpoint for `docusaurus-theme-ai-search-upstash`
+# AI Chat API Endpoint for `@upstash/docusaurus-theme-ai-search`
 
-This is the AI Chat API endpoint for [docusaurus-theme-ai-search-upstash](https://github.com/upstash/docusaurus-theme-ai-search-upstash), a Docusaurus theme that provides AI-powered search and chat capabilities using Upstash Vector.
+This is the AI Chat API endpoint for [@upstash/docusaurus-theme-ai-search](https://github.com/upstash/docusaurus-theme-ai-search-upstash), a Docusaurus theme that provides AI-powered search and chat capabilities using Upstash Vector.
 
 ## Environment Variables
 
@@ -38,6 +38,6 @@ The easiest way to deploy this API endpoint is to use the [Vercel Platform](http
 
 To learn more about the main package and how to use this API endpoint, check out:
 
-- [docusaurus-theme-ai-search-upstash Documentation](https://github.com/upstash/docusaurus-theme-ai-search-upstash)
+- [@upstash/docusaurus-theme-ai-search repo](https://github.com/upstash/docusaurus-theme-ai-search-upstash)
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API
 - [Upstash Vector](https://upstash.com/docs/vector/overall/getstarted) - learn about Upstash Vector database
